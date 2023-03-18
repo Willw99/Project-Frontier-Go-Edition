@@ -1,0 +1,2 @@
+GET PRIVATE REPO
+GOPRIVATE=github.com/Willw99 go get -u -f github.com/Willw99/Project-Frontier-Go-Edition/models
